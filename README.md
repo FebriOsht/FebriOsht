@@ -90,6 +90,7 @@ If my open-source tools save you time, you can support their development. Thank 
 
 <p align="center">
   <a href="https://saweria.co/FebriOsht"><img src="https://img.shields.io/badge/Saweria-QRIS%20%C2%B7%20e--wallet%20%C2%B7%20bank-FAAE2B?style=for-the-badge" alt="Support on Saweria" /></a>
+  <a href="https://paypal.me/FebriOsht"><img src="https://img.shields.io/badge/PayPal-paypal.me%2FFebriOsht-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Support via PayPal" /></a>
 </p>
 
 **Crypto**
